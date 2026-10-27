@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-OwlRelay is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://owlrelay.email/
+OwlRelay provides an open-source solution that converts incoming emails into HTTP requests, enabling developers to trigger webhooks and integrate email-driven workflows. Users can create unique email addresses that forward messages, including attachments, to specified endpoints, facilitating automation with services like Zapier, n8n, and custom APIs. The platform offers a self-hosted option and a hosted SaaS, focusing on simplicity, privacy, and extensibility for developers building email-triggered integrations.
+
+**Areas:** Company · Email · Webhooks · Open-Source · Automation
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://owlrelay.email/)
+- [Documentation](https://owlrelay.email/)
+- [Pricing](https://owlrelay.email/#pricing)
+- [Terms of service](https://owlrelay.email/terms-of-service)
+- [Privacy policy](https://owlrelay.email/privacy)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/owlrelay/](https://apis.io/providers/owlrelay/).
